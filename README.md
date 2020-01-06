@@ -4,6 +4,8 @@
 - MILA (6 months)[[Link](https://mila.quebec/en/admission-process-for-interns/)]
 
 ## 2020
+
+- IBM Ai Residency Program [[link]](https://www.research.ibm.com/artificial-intelligence/careers/ai-residency/)] Application Dealine Jan 31 2020
 - Uber AI Residency Program [[Link]](https://careersinfo.uber.com/ai-residency) . Application Deadline: Jan 19, 2020.
 - Shell AI Residency Program [[Link]](https://www.shell.com/energy-and-innovation/overcoming-technology-challenges/digital-innovation/artificial-intelligence/advancing-the-digital-revolution.html) . Application Deadline: Dec 31, 2019.
 - Facebook AI Residency Program [[Link](https://research.fb.com/programs/facebook-ai-residency-program/)]. Application Deadline: January 31, 2020, 05:00pm PST.
@@ -69,3 +71,5 @@
 - Fall NAVER Clova AI Research Global Residency Program [[Link](https://clova.ai/m/en/research/careers.html)]
 - Machine Learning Fellow [[Link](https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb)]
 - OpenAI Fellow Fall 2018 [[Link](https://blog.openai.com/openai-fellows/)]
+- Intel Ai Research residency [[link](https://www.intel.ai/research-programs/)]
+
